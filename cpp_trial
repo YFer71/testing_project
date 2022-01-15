@@ -1,0 +1,10 @@
+int main ()
+{
+int bagla_liha = 1;
+
+while (bagla_liha)
+  bagla_liha = 0;
+
+
+return 0;
+}
